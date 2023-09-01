@@ -1,8 +1,11 @@
+Hello!
+
+I am currently in my Junior year of undergrad at Montana State University studying Computer Science! I am currently enrolled in Computer Concepts and Programming Languages, Computer Security, Networks, Computer Systems, and Technical Writing! I am especially excited about learning how to build an interpretor in Haskell this semester. 
+
+Please contact me for permissions onto my private repositories! A majority of my projects are school related and must remain private.
+Statistics (Coming Soon)
 ![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-
-
 <!--
 **victoria406/victoria406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
