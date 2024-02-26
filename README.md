@@ -1,8 +1,8 @@
 ✨Hello!
 
-✨I am currently in my Junior year of undergrad at Montana State University studying Computer Science! I am currently enrolled in Computer Concepts and Programming Languages, Computer Security, Networks, Computer Systems, and Technical Writing! I am especially excited about learning how to build an interpretor in Haskell this semester. 
+✨I am currently in my Senior year of undergrad at Montana State University studying Computer Science! I am currently enrolled in Computational Theory, Compilers, Software Engineering, Human Computer Interaction, and National Data Security! I am especially excited about learning how to build a compiler from scratch this semester as part of my senior capstone. 
 
-✨Please contact me for permissions onto my private repositories! A majority of my projects are school related and must remain private.
+✨If you are interested in any of my private repositories, please email me victorialynnew@gmail.com. They are private for academic reasons!
 
 ✨Statistics (Coming Soon)
 ![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-dark-mode-only)
