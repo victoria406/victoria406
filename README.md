@@ -5,10 +5,8 @@
 ✨Please contact me for permissions onto my private repositories! A majority of my projects are school related and must remain private.
 
 ✨Statistics (Coming Soon)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg)
 <!--
 **victoria406/victoria406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
