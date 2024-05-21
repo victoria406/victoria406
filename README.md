@@ -5,10 +5,10 @@
 ✨If you are interested in any of my private repositories, please email me victorialynnew@gmail.com. They are private for academic reasons!
 
 ✨Statistics (Coming Soon)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[](https://raw.githubusercontent.com/victoria406/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **victoria406/victoria406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
