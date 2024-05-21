@@ -1,6 +1,6 @@
 ✨Hello!
 
-✨I am currently in my Senior year of undergrad at Montana State University studying Computer Science! I am currently enrolled in Computational Theory, Compilers, Software Engineering, Human Computer Interaction, and National Data Security! I am especially excited about learning how to build a compiler from scratch this semester as part of my senior capstone. 
+✨I am currently in my Senior year of undergrad at Montana State University studying Computer Science! I am currently completing a software engineer internship with Lone Peak Precision! I am also working towards an AWS certification!
 
 ✨If you are interested in any of my private repositories, please email me victorialynnew@gmail.com. They are private for academic reasons!
 
