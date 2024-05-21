@@ -4,7 +4,7 @@
 
 ✨If you are interested in any of my private repositories, please email me victorialynnew@gmail.com. They are private for academic reasons!
 
-✨Statistics (Coming Soon)
+✨More about me:
 ![Overview](file:///C:/Users/12vic/Downloads/overview.svg)
 ![Statistics](file:///C:/Users/12vic/Downloads/languages.svg)
 
