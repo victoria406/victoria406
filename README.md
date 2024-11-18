@@ -1,13 +1,31 @@
-✨Hello!
+# ✨ Welcome to My GitHub! ✨
 
-✨I am currently in my Senior year of undergrad at Montana State University studying Computer Science! I am currently completing a software engineer internship with Lone Peak Precision! I am also working towards an AWS certification!
+Hi there! I'm **Victoria White**, a soon-to-be graduate from **Montana State University, College of Engineering**, with a **Bachelor of Science in Computer Science** (🎓 December 13, 2024 🎉).  
 
-✨If you are interested in any of my private repositories, please email me victorialynnew@gmail.com. They are private for academic reasons!
+### 🛠️ A Bit About Me:
+During my internship at **Lone Peak Precision**, I gained hands-on experience with **end-to-end system design** by:
+- 🔍 **Analyzing 3D files** and extracting critical data.
+- 📊 **Performing backend calculations** to solve engineering challenges.
+- 🎨 **Designing a user-friendly UX interface** for the project’s website.
+- 🚢 **Deploying the project** to an AWS EC2 instance using Docker.
 
-✨More about me:
+### 🚀 What I’m Up To:
+- **Passion Projects:**  
+  - 📄 **Job applications!** I'm meticulously tracking, analyzing, and visualizing application data—because even job hunting is an opportunity to dive into data!  
+  - 🧠 **LeetCode daily grind:** Staying consistent to sharpen my problem-solving skills and keep my brain happy.  
 
+- **Future Goals:**  
+  - 📜 **AWS and Python certifications** are on the horizon (as soon as I save up for them 💸).  
+  - 🌟 Designing **my take on Goodreads** (tentatively called **GreatReads**)—a fresh spin on book tracking and reviews.  
+
+### ✉️ Let’s Connect!
+- 🔐 Interested in any of my **private repositories**? Shoot me an email at **[victorialynnew@gmail.com](mailto:victorialynnew@gmail.com)**. These repositories are private for academic reasons, but I'm happy to share upon request!  
+- 💼 Find me on **[LinkedIn](https://www.linkedin.com/in/victoria-white-codes/)**. Let’s talk tech, career opportunities, or just nerd out about cool projects!  
+
+### 📊 GitHub Stats:
 ![Overview](https://raw.githubusercontent.com/victoria406/Stats/master/generated/overview.svg)
 ![Statistics](https://raw.githubusercontent.com/victoria406/Stats/master/generated/languages.svg)
+
 
 
 <!--
