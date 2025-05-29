@@ -25,10 +25,6 @@ I’m **Victoria**, a Computer Science graduate (🎓 *December 13 2024*) fr
 | 2025 | **Job‑Hunt Analytics** | Python · Pandas · Streamlit | Visualized 120+ applications, uncovering time‑to‑response trends and optimizing outreach |
 | 2023 | **Unity Roll‑A‑Ball+** | C# · Unity | Extended classic tutorial with dynamic ramps, physics puzzles, UI & scoring |
 
-## 📈 GitHub Stats
-![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria406&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoria406&layout=compact&hide_border=true)
-
 ## 🎯 On the Horizon
 - **AWS Certified Cloud Practitioner** → studying now ☕
 - **PCAP – Certified Associate in Python**
