@@ -1,26 +1,48 @@
-# ✨ Welcome to My GitHub! ✨
+# Victoria White &nbsp;👩‍💻
+*Software Engineer • Data Enthusiast • Cybersecurity Aficionado*
 
-Hi there! I'm **Victoria White**, a soon-to-be graduate from **Montana State University, College of Engineering**, with a **Bachelor of Science in Computer Science** (🎓 December 13, 2024 🎉).  
+---
 
-### 🛠️ A Bit About Me:
-During my internship at **Lone Peak Precision**, I gained hands-on experience with **end-to-end system design** by:
-- 🔍 **Analyzing 3D files** and extracting critical data.
-- 📊 **Performing backend calculations** to solve engineering challenges.
-- 🎨 **Designing a user-friendly UX interface** for the project’s website.
-- 🚢 **Deploying the project** to an AWS EC2 instance using Docker.
+### 👋 Hey there!
+I’m **Victoria**, a Computer Science graduate (🎓 *December 13 2024*) from **Montana State University**. I thrive on turning ideas into reliable software—powered by coffee, curiosity, and a healthy dose of Linux terminal magic.
 
-### 🚀 What I’m Up To:
-- **Passion Projects:**  
-  - 📄 **Job applications!** I'm meticulously tracking, analyzing, and visualizing application data—because even job hunting is an opportunity to dive into data!  
-  - 🧠 **LeetCode daily grind:** Staying consistent to sharpen my problem-solving skills and keep my brain happy.  
+---
 
-- **Future Goals:**  
-  - 📜 **AWS and Python certifications** are on the horizon (as soon as I save up for them 💸).  
-  - 🌟 Designing **my take on Goodreads** (tentatively called **GreatReads**)—a fresh spin on book tracking and reviews.  
+## 🔭 Currently Exploring
+- **Job‑Hunt Analytics Dashboard** → Python · Pandas · Streamlit · GCP
+- **Daily LeetCode** → one puzzle a day keeps the brain 🧠 sharp
+- **GreatReads** (WIP) → my open‑source twist on Goodreads, built with Next.js & Firebase
 
-### ✉️ Let’s Connect!
-- 🔐 Interested in any of my **private repositories**? Shoot me an email at **[victorialynnew@gmail.com](mailto:victorialynnew@gmail.com)**. These repositories are private for academic reasons, but I'm happy to share upon request!  
-- 💼 Find me on **[LinkedIn](https://www.linkedin.com/in/victoria-white-codes/)**. Let’s talk tech, career opportunities, or just nerd out about cool projects!  
+## 🛠️ Tech Toolbox
+`Python` · `TypeScript / JavaScript` · `C/C++` · `Haskell` · `SQL`
+
+`React / Next.js` · `Node.js` · `Firebase` · `GCP` · `AWS (EC2, S3)` · `Docker` · `Linux`
+
+## 💡 Highlights
+| Year | Project | Stack | Impact |
+|------|---------|-------|--------|
+| 2024 | **End‑to‑End Part Analyzer** @ *Lone Peak Precision* | Python · Flask · Docker · AWS | Parsed 3D CAD files, generated machining parameters, and deployed to EC2—accelerating quoting by **40%** |
+| 2025 | **Job‑Hunt Analytics** | Python · Pandas · Streamlit | Visualized 120+ applications, uncovering time‑to‑response trends and optimizing outreach |
+| 2023 | **Unity Roll‑A‑Ball+** | C# · Unity | Extended classic tutorial with dynamic ramps, physics puzzles, UI & scoring |
+
+## 📈 GitHub Stats
+![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria406&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoria406&layout=compact&hide_border=true)
+
+## 🎯 On the Horizon
+- **AWS Certified Cloud Practitioner** → studying now ☕
+- **PCAP – Certified Associate in Python**
+
+## 🌐 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/victoria-white) · **victorialynnew@gmail.com**
+
+<details>
+  <summary>Interested in my private academic repos?</summary>
+  <br/>
+  They’re private for course policy reasons, but I’m happy to grant read‑only access—just send me an email!
+</details>
+
+> _“We can only see a short distance ahead, but we can see plenty there that needs to be done..” — Alan Turing_
 
 ### 📊 GitHub Stats:
 ![Overview](https://raw.githubusercontent.com/victoria406/Stats/master/generated/overview.svg)
