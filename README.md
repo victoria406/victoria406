@@ -1,33 +1,14 @@
 # Victoria White &nbsp;👩‍💻
-*Software Engineer • Data Enthusiast • Cybersecurity Aficionado*
+*Software Engineer • My biggest hyperfixation is Stuxnet • Trying to embody Linus Torvald in the modern age of AI slop*
 
 ---
+Comp TIA Sec+ cert, in the middle of masters in cybersecurity johns hopkins, bachelor of science computer science-Montana State University
 
-### 👋 Hey there!
-I’m **Victoria**, a Computer Science graduate (🎓 *December 13 2024*) from **Montana State University**. I thrive on turning ideas into reliable software—powered by coffee, curiosity, and a healthy dose of Linux terminal magic.
+Embedded SWE in safety critical/mission critical environments. 
 
----
+Big fan of Rust.
 
-## 🔭 Currently Exploring
-- **Job‑Hunt Analytics Dashboard** → Python · Pandas · Streamlit · GCP
-- **Daily LeetCode** → one puzzle a day keeps the brain 🧠 sharp
-- **GreatReads** (WIP) → my open‑source twist on Goodreads, built with Next.js & Firebase
-
-## 🛠️ Tech Toolbox
-`Python` · `TypeScript / JavaScript` · `C/C++` · `Haskell` · `SQL`
-
-`React / Next.js` · `Node.js` · `Firebase` · `GCP` · `AWS (EC2, S3)` · `Docker` · `Linux`
-
-## 💡 Highlights
-| Year | Project | Stack | Impact |
-|------|---------|-------|--------|
-| 2024 | **End‑to‑End Part Analyzer** @ *Lone Peak Precision* | Python · Flask · Docker · AWS | Parsed 3D CAD files, generated machining parameters, and deployed to EC2—accelerating quoting by **40%** |
-| 2025 | **Job‑Hunt Analytics** | Python · Pandas · Streamlit | Visualized 120+ applications, uncovering time‑to‑response trends and optimizing outreach |
-| 2023 | **Unity Roll‑A‑Ball+** | C# · Unity | Extended classic tutorial with dynamic ramps, physics puzzles, UI & scoring |
-
-## 🎯 On the Horizon
-- **AWS Certified Cloud Practitioner** → studying now ☕
-- **PCAP – Certified Associate in Python**
+Open source projects I contribute to are Wikimedia Rust Bots
 
 ## 🌐 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/victoria-white) · **victorialynnew@gmail.com**
