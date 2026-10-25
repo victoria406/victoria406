@@ -1,5 +1,5 @@
 # Victoria White &nbsp;👩‍💻
-*Software Engineer • My biggest hyperfixation is Stuxnet • Trying to embody Linus Torvald in the modern age of AI slop*
+*Software Engineer • My biggest hyperfixation is Stuxnet • Trying to embody Linus Torvalds in the modern age of AI slop*
 
 ---
 Comp TIA Sec+ cert, in the middle of masters in cybersecurity johns hopkins, bachelor of science computer science-Montana State University
