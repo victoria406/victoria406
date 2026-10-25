@@ -8,7 +8,7 @@ Embedded SWE in safety critical/mission critical environments.
 
 Big fan of Rust.
 
-Open source projects I contribute to are Wikimedia Rust Bots
+Open source projects I contribute to are Wikimedia Rust Bots: https://gitlab.wikimedia.org/atomic
 
 ## 🌐 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/victoria-white) · **victorialynnew@gmail.com**
